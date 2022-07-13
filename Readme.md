@@ -1,1 +1,1 @@
-Initial implementations for outlier detection using generative models (autoencoders and variants)
+Initial implementations for outlier detection using generative models (autoencoders and variants). For using examples using the dog/cat dataset, unzip the dataset.zip file, and adjust file path in the source code to point to the unzipped location.
